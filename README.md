@@ -1,8 +1,6 @@
 # PhotoSelector
 仿新浪相册选择器，支持相册选择、视频选择</br>
-
-</br>
-<h3>一、使用方法</h3></br>
+<h3>一、使用方法</h3>
 <h5>1、选择相册、支持拍照</h5>
 启动PhotoSelectorActivity并传入已选照片路径List。若包含已选照片路径则被选照片会被选</br>
 Intent i = new Intent(getActivity(), PhotoSelectorActivity.class);</br>
