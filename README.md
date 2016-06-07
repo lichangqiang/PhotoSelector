@@ -13,3 +13,5 @@ Intent i = new Intent(getActivity(), PhotoSelectorActivity.class);</br>
 		i.putStringArrayListExtra("selectedPaths", selectedVedioPaths);</br>
 		i.putExtra("loadType", ImageDir.Type.VEDIO.toString());</br>
 		startActivityForResult(i, REQUEST_CODE_GET_VEDIOS);</br>
+</br>欢迎大家访问我的博客提供宝贵建议</br>
+<a href='http://blog.csdn.net/lcq376645763'>http://blog.csdn.net/lcq376645763</a></br>
